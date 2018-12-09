@@ -4,8 +4,6 @@ import pl.com.empas.java_introductory_course.oop.solid.common.ExcelDocument;
 import pl.com.empas.java_introductory_course.oop.solid.common.OfficeDocument;
 import pl.com.empas.java_introductory_course.oop.solid.common.WordDocument;
 
-import java.util.List;
-
 public class DocumentPrinter {
 
     public static int EXCEL_ROWS_PER_PAGE = 40;

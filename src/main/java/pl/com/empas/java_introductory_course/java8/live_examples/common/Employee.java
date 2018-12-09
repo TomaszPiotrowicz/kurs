@@ -1,7 +1,5 @@
 package pl.com.empas.java_introductory_course.java8.live_examples.common;
 
-import pl.com.empas.java_introductory_course.java8.live_examples.StreamExample;
-
 public class Employee {
     final String name;
 

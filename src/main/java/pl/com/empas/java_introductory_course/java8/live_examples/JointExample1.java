@@ -7,7 +7,6 @@ import pl.com.empas.java_introductory_course.collections.common.Employee;
 
 import java.util.List;
 import java.util.Map;
-import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.function.ToLongFunction;
 import java.util.stream.Collectors;

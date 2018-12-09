@@ -3,9 +3,7 @@ package pl.com.empas.java_introductory_course.collections.tasks.task1_index_find
 import pl.com.empas.java_introductory_course.collections.common.FruitGenerator;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
-import java.util.ListIterator;
 
 public class IndexFinderImpl<E> implements IndexFinder<E> {
 

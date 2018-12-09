@@ -1,8 +1,5 @@
 package pl.com.empas.java_introductory_course.threads;
 
-import java.util.concurrent.locks.Lock;
-import java.util.concurrent.locks.ReentrantLock;
-
 class Job implements Runnable {
     private final Object resourceA, resourceB;
 

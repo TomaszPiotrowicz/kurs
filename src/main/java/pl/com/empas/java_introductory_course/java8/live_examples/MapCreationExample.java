@@ -4,7 +4,6 @@ import pl.com.empas.java_introductory_course.collections.common.Employee;
 import pl.com.empas.java_introductory_course.collections.common.EmployeeGenerator;
 
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class MapCreationExample {
 
